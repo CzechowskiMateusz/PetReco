@@ -48,19 +48,17 @@ Aplikacja mobilna (Android) pozwalająca na rozpoznawanie i rekomendację inform
 
 ### Ekran logowania
 Ekran logowania umożliwia szybkie i bezpieczne zalogowanie się do aplikacji.
-<div align="center">
-<img width="124" alt="image" src="https://github.com/user-attachments/assets/4ecfa79a-acc8-477f-aeb9-41b93df6a385" />
-</div>
 
 ### Ekran początkowy
-Główny ekran aplikacji, z dostępem do wszystkich funkcji i menu.
-<div align="center">
-<img width="124" alt="image" src="https://github.com/user-attachments/assets/4d14e32c-8e6c-4225-8920-e927236b3bb4" />
-</div>
+Główny ekran aplikacji, z dostępem do wszystkich funkcji i menu
 
 ### Rozpoznawanie zwierząt
 Proces rozpoznawania zwierząt z efektowną animacją konfetti na zakończenie.
+
+
 <div align="center">
+<img width="124" alt="image" src="https://github.com/user-attachments/assets/4ecfa79a-acc8-477f-aeb9-41b93df6a385" />
+<img width="124" alt="image" src="https://github.com/user-attachments/assets/4d14e32c-8e6c-4225-8920-e927236b3bb4" />
 <img width="124" alt="image" src="https://github.com/user-attachments/assets/46008c99-cd3c-4dd8-9701-20492ad8a4a9" />
 </div>
 
