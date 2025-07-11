@@ -8,16 +8,8 @@ Aplikacja mobilna (Android) pozwalająca na rozpoznawanie i rekomendację inform
 
 - [Funkcjonalności](#funkcjonalności)
 - [Technologie](#technologie)
+- [Wygląd Aplikacji](#wygląd-aplikacji)
 - [Instalacja i konfiguracja](#instalacja-i-konfiguracja)
-  - [1. Skopiuj repo](#1-skopiuj-repo)
-  - [2. Utwórz `local.properties`](#2-utwórz-localproperties)
-  - [3. Skonfiguruj Firebase](#3-skonfiguruj-firebase)
-  - [4. Zgaś Google i Facebook sekrety](#4-zgaś-google-i-facebook-sekrety)
-  - [5. Build i uruchomienie](#5-build-i-uruchomienie)
-- [Użycie sekretów w kodzie](#użycie-sekretów-w-kodzie)
-- [CI/CD (opcjonalnie)](#cicd-opcjonalnie)
-- [Kontrybutorzy](#kontrybutorzy)
-- [Licencja](#licencja)
 
 ---
 
