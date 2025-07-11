@@ -47,13 +47,13 @@ Aplikacja mobilna (Android) pozwalająca na rozpoznawanie i rekomendację inform
 ## Wygląd Aplikacji
 
 ### Ekran logowania
-<img width="968" height="2048" alt="image" src="https://github.com/user-attachments/assets/4ecfa79a-acc8-477f-aeb9-41b93df6a385" />
+<img width="124" height="512" alt="image" src="https://github.com/user-attachments/assets/4ecfa79a-acc8-477f-aeb9-41b93df6a385" />
 
 ### Ekran początkowy
-<img width="968" height="2048" alt="image" src="https://github.com/user-attachments/assets/4d14e32c-8e6c-4225-8920-e927236b3bb4" />
+<img width="124" height="512" alt="image" src="https://github.com/user-attachments/assets/4d14e32c-8e6c-4225-8920-e927236b3bb4" />
 
 ### Rozpoznawanie zwierząt wraz z animacją konfetii
-<img width="968" height="2048" alt="image" src="https://github.com/user-attachments/assets/46008c99-cd3c-4dd8-9701-20492ad8a4a9" />
+<img width="124" height="512" alt="image" src="https://github.com/user-attachments/assets/46008c99-cd3c-4dd8-9701-20492ad8a4a9" />
 
 ---
 
